@@ -1,1 +1,1 @@
-# videogame-shop
+# gamer-shop
